@@ -40,3 +40,6 @@ npm install
 npm start
 open in your your local host browser.
 
+## Preview
+[apppreview](./Screenshot.png)
+
